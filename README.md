@@ -12,7 +12,6 @@ if(condition)
 if(otherCondition)
   filter = filter.Or(x => x.Age == age);
 
-//Example repository of database
 var result = context.People.Where(filter);
 
 
