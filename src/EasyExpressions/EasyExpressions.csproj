@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>EasyExpressions</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Luzimar Oliveira</Authors>
+    <Company>LZM</Company>
+    <PackageTags>NuGet;.NET;Classlib;GitHub;Actions</PackageTags>
+    <Description>
+      Library to facilitate the use of linq expressions
+    </Description>
+  </PropertyGroup>
+
+</Project>
