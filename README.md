@@ -1,7 +1,7 @@
 # EasyExpressions
 
 ## Features
-- Combine one or more expressions using boolean operators (And, loading...)
+- Combine expressions using boolean operators (And, loading...)
 
 ## Installation
 dotnet add package EasyExpressions
