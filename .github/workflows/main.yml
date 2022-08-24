@@ -1,4 +1,4 @@
-name: dotnet5_tests_coverlet_nuget
+name: easy-expressions-pipeline-nuget
 
 on:
   push:
